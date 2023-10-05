@@ -1,0 +1,20 @@
+Logistic Regression:
+    - Accuracy: 0.8107
+    - Precision: 0.6425
+    - Recall: 0.2121
+    - F1-score: 0.3189
+    - ROC-AUC: 0.5905
+
+Decision Tree Classifier:
+    - Accuracy: 0.7877
+    - Precision: 0.4926
+    - Recall: 0.5295
+    - F1-score: 0.5104
+    - ROC-AUC: 0.6927
+
+Random Forest Classifier:
+    - Accuracy: 0.8603
+    - Precision: 0.7938
+    - Recall: 0.4482
+    - F1-score: 0.5729 
+    - ROC-AUC: 0.7087

@@ -1,0 +1,14 @@
+Linear Regression:
+    - Mean Absolute Error: 0.2827319853471135
+    - Mean Squared Error: 0.1394873084684947
+    - R-squared: 0.15625361592742093
+
+Decision Tree Regression:
+    - Mean Absolute Error: 0.21766666666666667
+    - Mean Squared Error: 0.21766666666666667
+    - R-squared: -0.31664640281314704
+
+Random Forest Regression:
+    - Mean Absolute Error: 0.21071666666666666
+    - Mean Squared Error: 0.10825556666666668
+    - R-squared: 0.3451716580268047
